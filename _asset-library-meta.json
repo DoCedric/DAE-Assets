@@ -2,7 +2,7 @@
     "api_versions":  {
                          "v1":  {
                                     "url":  "_v1/asset-index.json",
-                                    "hash":  "SHA256:55d3547566c8e4d1568ab63025448b7c609510a1af51c213d95d74806cf38184"
+                                    "hash":  "SHA256:9461f4df41254eead5809815de3b1968ec25016510f1012acb49117fd0e5de88"
                                 }
                      },
     "name":  "DAE Assets",
