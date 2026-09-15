@@ -1,14 +1,14 @@
-{
-  "api_versions": {
-    "v1": {
-      "url": "_v1/asset-index.json",
-      "hash": "SHA256:b40971e5abe2c67e821e5a5a27cb8669f2eda9219763fd66f08e08951daffb23"
-    }
-  },
-  "name": "DAE Assets",
-  "contact": {
-    "name": "Cedric Van der Kelen / Howest DAE",
-    "url": "https://github.com/DoCedric/DAE-Assets",
-    "email": "cedric.van.der.kelen@howest.be"
-  }
+﻿{
+    "api_versions":  {
+                         "v1":  {
+                                    "url":  "_v1/asset-index.json",
+                                    "hash":  "SHA256:0eb3b5c5b53da47c4889d6443601d8e7854f272c3ccab765b3e02580b1f453f2"
+                                }
+                     },
+    "name":  "DAE Assets",
+    "contact":  {
+                    "name":  "Cedric Van der Kelen / Howest DAE",
+                    "url":  "https://github.com/DoCedric/DAE-Assets",
+                    "email":  "cedric.van.der.kelen@howest.be"
+                }
 }

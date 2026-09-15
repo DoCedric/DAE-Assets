@@ -1,7 +1,36 @@
 {
-  "asset_count": 2,
+  "asset_count": 3,
   "file_count": 1,
   "assets": [
+    {
+      "name": "SM_3D1Template_Ground",
+      "id_type": "OBJECT",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets_thumbnails/Object/sm_3d1template_ground.webp",
+        "hash": "SHA256:2d0d68c7f033348c502ac87fd01e93ba365d1dbc9ec53a817081bc6ee40546e8"
+      },
+      "meta": {
+        "catalog_id": "598bdc9d-0dbe-4fd6-a11b-a63c320a4037",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "SM_Character_Geovanni",
       "id_type": "OBJECT",
@@ -16,6 +45,7 @@
         "hash": "SHA256:4084903b6a405a3babb8d920b9b8ac9950eee2825bed71c75d7066aede49086d"
       },
       "meta": {
+        "catalog_id": "df15dc38-0a37-41de-905b-150815b105d1",
         "properties": [
           {
             "name": "dimensions",
@@ -44,6 +74,7 @@
         "hash": "SHA256:1ca2e50ad18a9bfc8f989e22eeb4e91ffdcb68a72a1d7ebca7f6778d0f4d8e9e"
       },
       "meta": {
+        "catalog_id": "df15dc38-0a37-41de-905b-150815b105d1",
         "properties": [
           {
             "name": "dimensions",
@@ -62,8 +93,8 @@
   "files": [
     {
       "path": "assets.blend",
-      "size_in_bytes": 151175,
-      "hash": "SHA256:c89ebdc1bd7af57e54c928e96e4103ae5b433bc392177ff38c5baede22fe8b7e",
+      "size_in_bytes": 161961,
+      "hash": "SHA256:34d24cc01950ebf45d9deac96ed94b866147e20b162fb0f2384d4a2bf12f13a2",
       "blender_version": "5.2.44"
     }
   ]

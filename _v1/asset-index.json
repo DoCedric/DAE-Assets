@@ -1,13 +1,35 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 151175,
-  "asset_count": 2,
+  "asset_size_bytes": 161961,
+  "asset_count": 3,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:4415fe3d5363c4e77aef35d2600474836e1b45ac496749eca987c225280ee63f"
+      "hash": "SHA256:d300f39d003fd72c05155231467f3adbdfcdedef28d735cd55cd4155083bb1e9"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "DAE",
+      "uuids": [
+        "403db440-b321-4fd8-8999-34229db556ab"
+      ],
+      "simple_name": "DAE"
+    },
+    {
+      "path": "DAE/Presentation",
+      "uuids": [
+        "598bdc9d-0dbe-4fd6-a11b-a63c320a4037"
+      ],
+      "simple_name": "DAE-Presentation"
+    },
+    {
+      "path": "DAE/Reference",
+      "uuids": [
+        "df15dc38-0a37-41de-905b-150815b105d1"
+      ],
+      "simple_name": "DAE-Reference"
+    }
+  ]
 }
