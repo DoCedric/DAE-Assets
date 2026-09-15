@@ -93,8 +93,8 @@
   "files": [
     {
       "path": "assets.blend",
-      "size_in_bytes": 161961,
-      "hash": "SHA256:34d24cc01950ebf45d9deac96ed94b866147e20b162fb0f2384d4a2bf12f13a2",
+      "size_in_bytes": 218293,
+      "hash": "SHA256:ffcf3bcf7353d9939ab1d0c3e1b8f729eb5c0f31a5f99fd42313fc4b77cab922",
       "blender_version": "5.2.44"
     }
   ]
