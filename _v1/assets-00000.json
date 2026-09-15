@@ -1,0 +1,70 @@
+{
+  "asset_count": 2,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "SM_Character_Geovanni",
+      "id_type": "OBJECT",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets_thumbnails/Object/sm_character_geovanni.webp",
+        "hash": "SHA256:4084903b6a405a3babb8d920b9b8ac9950eee2825bed71c75d7066aede49086d"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6992312669754028,
+              0.368315190076828,
+              1.7494902610778809
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SM_Character_Lena",
+      "id_type": "OBJECT",
+      "files": [
+        "assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "assets_thumbnails/Object/sm_character_lena.webp",
+        "hash": "SHA256:1ca2e50ad18a9bfc8f989e22eeb4e91ffdcb68a72a1d7ebca7f6778d0f4d8e9e"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5523393750190735,
+              0.3004903793334961,
+              1.6950557231903076
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets.blend",
+      "size_in_bytes": 151175,
+      "hash": "SHA256:c89ebdc1bd7af57e54c928e96e4103ae5b433bc392177ff38c5baede22fe8b7e",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
